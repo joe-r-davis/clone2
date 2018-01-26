@@ -1,0 +1,123 @@
+.header-img {
+  width: 100%;
+  height: auto;
+  background-image: linear-gradient(-180deg, #97CFE9 0%, #5DA1CF 100%);
+  margin-top: 15px;
+}
+
+.fender-logo {
+  color: white;
+}
+
+.topnav {
+  margin-top: 1rem;
+  color: white;
+  vertical-align: text-bottom;
+}
+
+
+.upper-copy {
+  color: white;
+}
+
+
+.blue {
+  text-align: center;
+  padding-top: 2.2rem;
+}
+
+.headline {
+  padding: 2em;
+}
+
+.sm-txt{
+  font-size: .7rem;
+  font-weight: 500;
+}
+
+.margin1em {
+  margin: 1em;
+}
+
+.bgimg2 {
+  background-image: url("../images/fender-2nd-bg.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+
+.height-holder{
+  height: 500px;
+}
+
+.h250{
+  height:250px;
+}
+.h300{
+  height:300px;
+}
+.h350{
+  height:350px;
+}
+.h400{
+  height:400px;
+}
+.h450{
+  height:450px;
+}
+
+.m-1{
+  margin: 1rem;
+}
+.m-2{
+  margin: 2rem;
+}
+
+.m-l-1{
+  margin-left: 1rem;
+}
+
+.m-l-2{
+  margin-left: 2rem;
+}
+
+.m-t-1{
+  margin-top: 1rem;
+}
+.m-t-2{
+  margin-top: 2rem;
+}
+.m-t-4{
+  margin-top: 4rem;
+}
+
+
+.cards {
+  text-align: center;
+  padding: 1em;
+}
+
+lrgricon{
+  font-size: 25px;
+}
+
+.srv-tribute {
+  width: 100%;
+  height: auto;
+  background-image: linear-gradient(-180deg, #97CFE9 0%, #5DA1CF 100%);
+  margin-top: 15px;
+  color: white;
+  }
+
+.srvbg {
+  background-image: url("../images/StevieRayVaughn.png");
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.center-blue-card {
+  padding: 3rem;
+  align-content: center center;
+}
