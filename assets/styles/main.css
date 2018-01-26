@@ -121,3 +121,7 @@ lrgricon{
   padding: 3rem;
   align-content: center center;
 }
+
+.add-left-margin {
+  margin-left: 15px;
+}
